@@ -12,7 +12,15 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+My particular research interests reside in the field of Symbolic Systems, which pertains mainly to the brain and it's ever growing similarities with computers. Specifically, I have molded this path towards Human Centered AI (HAI), with frequent detours into the realm of human consciousness. In trying to find an adequate study to replicate, none were made known to me that both fit my research relevence and real world feasibility. This is because most work on consciousness has been published as a report or commentary, and the few research articles that exist require large scale machinery like fMRI. This article by Mastroianni can be tied to my field of study by examining how the mind perceives morality, a hot topic in HAI, and is also practically feasibly by using Amazon Mechanical Turk, directly replicating the study. 
+
+This study consists of 5 major segments, all of which require survey data to make conclusions about what people think about morality. The first three segments show that people will claim that morality has declined when explicitly asked to assess moral change in a variety of time spans. The fourth segment shows that, in reality, people do not think morality is on a decline when asked to assess their own contemporaries. Lastly, the fifth segment shows that the appearance of moral decline is also not present for people when asked about their own personal worlds (i.e. friends and family). 
+
+In order to conduct this experiment, I will need to find a similar database of people (all of which are from the US) to survey about their own morality and whether or not it has declined around them in varying amounts of time. However, segments 1 and 4 utilize 3rd party databases for opinions about morals, such as Pew Research Center and Gallup. Some challenges will be: finding the right population of people to survey on Amazon Mechanical Turk or Prolific, replicating their survey questions that are not directly mentioned in the text, and organizing the results into similarly depictive graphs as presented in the paper. 
+
+https://github.com/FI3HER/mastroianni2023
+
+https://github.com/FI3HER/mastroianni2023/tree/main/original_paper
 
 
 ## Methods
